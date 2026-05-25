@@ -57,8 +57,8 @@ claude skill install path/to/babel-pentecost-check.skill
 Or clone this repo and install the folder directly:
 
 ```bash
-git clone https://github.com/<your-username>/babel-pentecost-check.git
-claude skill install ./babel-pentecost-check/babel-pentecost-check
+git clone https://github.com/AugmentedCamel/Pope-align-this.git
+claude skill install ./Pope-align-this/babel-pentecost-check
 ```
 
 ### Usage
